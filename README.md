@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center"> Hello World!</h1>
 
-<!--
-**maksymsagadin/maksymsagadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> My name is Maksym Sagadin, and I am a Front End Developer. </h3>
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ### About -->
+<!-- -  **Main Focus :**  Web Development -->
+<!-- -  **Learning :** Full-Stack :zap: | Open-Source :fire:	 -->
+-  **Hobbies :** Motorsports :books: | Photography :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+<!-- -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart:  -->
+-  **Let's Connect :** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/maksym-sagadin/](https://www.linkedin.com/in/maksym-sagadin/)](https://www.linkedin.com/in/maksym-sagadin/))]([https://www.linkedin.com/in/maksym-sagadin/](https://www.linkedin.com/in/maksym-sagadin/))  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksym.sagadin@gmail.com)](mailto:maksym.sagadin@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ### Visitors  -->
+
+<p align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}"/> </p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Hi there, 👋
+<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}"/></p>
+
+I am a Computer Science Student, currently in pre final year student at SSIPMT, Raipur
+
+- 🌱 I’m currently learning Data Structure, AI
+- 🤔 I’m looking for creating a projects in python 
+
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/rubal-agrawal/](https://www.linkedin.com/in/maksym-sagadin/)](https://www.linkedin.com/in/maksym-sagadin/))]([https://www.linkedin.com/in/rubal-agrawal/](https://www.linkedin.com/in/maksym-sagadin/)) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksym.sagadin@gmail.com)](mailto:maksym.sagadin@gmail.com)
+
+ -->
