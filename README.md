@@ -6,8 +6,8 @@
 <!-- ### About -->
 <!-- -  **Main Focus :**  Web Development -->
 <!-- -  **Learning :** Full-Stack :zap: | Open-Source :fire:	 -->
--  **Hobbies :** Motorsports :books: | Photography :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Hobbies :** Motorsports 🏎️ | Photography 📷
+-  **Ask Me About :** Anything!, I'm happy to help :v:
 <!-- -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart:  -->
 -  **Let's Connect :** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/maksym-sagadin/](https://www.linkedin.com/in/maksym-sagadin/)](https://www.linkedin.com/in/maksym-sagadin/))]([https://www.linkedin.com/in/maksym-sagadin/](https://www.linkedin.com/in/maksym-sagadin/))  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksym.sagadin@gmail.com)](mailto:maksym.sagadin@gmail.com) 
 
