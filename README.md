@@ -9,7 +9,7 @@
 -  **Hobbies :** Motorsports 🏎️ | Photography 📷
 -  **Ask Me About :** Anything!, I'm happy to help :v:
 <!-- -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart:  -->
--  **Let's Connect :** [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/maksymsagadin/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksym.sagadin@gmail.com) 
+-  **Let's Connect :** [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sagadin/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksym.sagadin@gmail.com) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- ### Visitors  -->
